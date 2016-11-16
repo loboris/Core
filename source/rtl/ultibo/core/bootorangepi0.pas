@@ -61,7 +61,7 @@ Orange Pi Zero
  
  Display: CVBS (on 13-pin header)
  
- Other: GPIO (26), 2 x USB (on 13-pin header)
+ Other: GPIO (26), IR (on 13-pin header)
 
 }
 
