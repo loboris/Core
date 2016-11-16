@@ -35,7 +35,7 @@ Orange Pi Zero
  
  Model: Orange Pi Zero
  
- Stock OS: Ubuntu Xenial Xerus 16.04.1
+ Stock OS: Lubuntu 14.04
 
  SoC: Allwinner H2
  
